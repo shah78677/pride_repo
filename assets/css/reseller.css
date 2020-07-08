@@ -1,0 +1,52 @@
+.slider-reseller {
+    background-image: url(../img/hero/reseller.jpg);
+    min-height: 455px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover
+}
+
+.slider-area .hero-cap2 h2 {
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #030431;
+}
+
+.reseller-features tr td
+{
+	padding: 20px;
+	border: none;
+}
+
+.feature-mark
+{
+	font-size: 25px;
+	color: #e65c00;
+}
+
+.feature-check
+{
+	font-size: 25px;
+	color: #660066;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.feature-title
+{
+	font-size: 20px;
+	color: #030431;
+}
+
+.reseller-desc-p
+{
+	text-align: center;
+	font-size: 20px;
+	line-height: 35px;
+}
+
+.resell_div
+{
+	display: hidden;
+}

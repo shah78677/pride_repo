@@ -1,0 +1,19 @@
+.dlt_content p
+{
+	text-align: justify;
+}
+
+.dlt_content p a
+{
+	color: #cc00ff;
+	cursor: pointer;
+}
+
+.dlt-slider
+{
+	background-image: url(../img/jumbo/dlt_jumbo.jpg);
+    min-height: 455px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover
+}
