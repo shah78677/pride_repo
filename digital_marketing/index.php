@@ -13,7 +13,7 @@
 
 <section class="about-service">
     <div class="section-title">
-        <h2 class="text-center mb-5">Digital Marketing Services</h2>
+	<h2 class="text-center mb-5">What We offer</h2>
     </div>
     <div class="container">
         <div class="row justify-content-center">
@@ -55,7 +55,7 @@
 </section>
 <section class="description-section">
     <div class="section-title">
-        <h2 class="text-center mb-5">What We offer</h2>
+	<h2 class="text-center mb-5">Digital Marketing Services</h2>
     </div>
     <div class="container">
         <div class="row">
