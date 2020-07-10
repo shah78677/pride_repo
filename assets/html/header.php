@@ -23,6 +23,7 @@
 	<link rel="stylesheet" href="/assets/css/nice-select.css">
 	<link rel="stylesheet" href="/assets/css/style.css?v=2">
     <link rel="stylesheet" href="/assets/css/digitalmarketing.css">
+    <link rel="stylesheet" href="/assets/css/webdesign.css">
 </head>
 <body>
     <header>

@@ -12,7 +12,7 @@
 </header>
 
 <section class="about-service">
-    <div class="section-title">
+    <div class="section-tittle">
 	<h2 class="text-center mb-5">What We offer</h2>
     </div>
     <div class="container">
@@ -54,7 +54,7 @@
     </div>
 </section>
 <section class="description-section">
-    <div class="section-title">
+    <div class="section-tittle">
 	<h2 class="text-center mb-5">Digital Marketing Services</h2>
     </div>
     <div class="container">

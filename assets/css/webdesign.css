@@ -1,0 +1,55 @@
+#about-web-dev {
+    padding: 100px 0;
+}
+
+#services-offered{
+    padding-bottom: 100px;
+}
+@media (min-width: 991.98px) { 
+
+    html, body {
+        height: 100%;
+    }
+    body {
+        position: relative;
+    }
+    
+    .service-hero {
+        height: 70vh;
+        min-height: 500px;
+        background: linear-gradient(to bottom, rgba(83, 84, 124, 0.5) 0%, rgba(83, 84, 124, 0.5) 100%), url('/assets/img/WebDev/service-hero.jpg');;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+      }
+      
+    .hero-text h1{
+        font-weight: bolder;
+        font-size: 3rem;
+        color: #fff !important;
+        text-transform: uppercase;
+      }
+    .hero-text p{
+        font-size: 1.5rem;
+        color: #fff !important;
+      }
+    .about-service {
+        padding: 100px 0;
+    }
+    
+    .cta-section {
+        padding: 100px 0;
+        background: #d0f3fb;
+    }
+    .cta-section h2{
+        color: #0b0b1d;
+        font-weight: bolder;
+    }
+    .description-section {
+        padding: 100px 0;
+    }
+.section-title h2{
+    font-weight: bolder !important;
+}
+
+ }
