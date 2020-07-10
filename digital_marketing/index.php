@@ -60,7 +60,7 @@
     <div class="container">
         <div class="row">
 		<div class="col-lg-4 col-md-4">
-<img src="/assets/img/digital_m/features.svg" alt="">
+            <img src="/assets/img/digital_m/features.svg" alt=""/>
 			</div>
             <div class="col-lg-8">
                 <div class="row">
