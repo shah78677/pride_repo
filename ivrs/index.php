@@ -63,14 +63,21 @@
         </div>
     </div>
 </section>
-<section class="ivr-cta">
+<section class="ivr-cta py-5">
 <div class="container">
-	<div class="row justify-content-center">
-		<div class="col-md-6 col-lg-6">
-			<h2>Contact Us &amp; Create a personalized experience for your customers
-</h2>
-		</div>
-	</div>
+    <div class="row justify-content-center">
+        <div class="col-lg-4">
+            <h3 style="color: #ffffff;">
+            Create A Personalized Experience For Your customers
+            </h3>
+        </div>
+            <div class="col-lg-4 col-md-4">
+                <div class="text-center">
+                    <a href="#" class="btn">Contact Us Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 </section>
 <section class="description-section">

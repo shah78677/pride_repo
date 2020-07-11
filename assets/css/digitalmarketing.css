@@ -28,11 +28,10 @@ body {
     padding: 70px 0;
 }
 
-.cta-section {
-    padding: 70px 0;
+.digital-cta {
     background: #0b0b1d;
 }
-.cta-section h2{
+.digital-cta h2{
     color: #fff;
     font-weight: bolder;
 }

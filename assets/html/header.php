@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="/assets/css/digitalmarketing.css">
     <link rel="stylesheet" href="/assets/css/webdesign.css">
     <link rel="stylesheet" href="/assets/css/ivrs.css">
+    <link rel="stylesheet" href="/assets/css/sms.css">
 </head>
 <body>
     <header>

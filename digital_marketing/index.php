@@ -40,18 +40,24 @@
         </div>
     </div>
 </section>
-<section class="cta-section">
-    <div class="section-title">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-6 col-lg-8">
-                    <h2 class="text-center">Approach to enhance <br>
-                        the branding experience</h2>
+<section class="digital-cta py-5">
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-4">
+            <h3 style="color: #ffffff;">
+                Approach To Enhance<br>
+                Branding Experience
+            </h3>
+        </div>
+            <div class="col-lg-4 col-md-4">
+                <div class="text-center">
+                    <a href="#" class="btn">Contact Us Now</a>
                 </div>
             </div>
-
         </div>
     </div>
+</div>
+
 </section>
 <section class="description-section">
     <div class="section-tittle">

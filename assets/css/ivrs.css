@@ -8,7 +8,7 @@ body {
 #ivrs-hero {
     height: 60vh;
     min-height: 500px;
-    background: linear-gradient(to bottom, rgba(83, 84, 124, 0.5) 0%, rgba(83, 84, 124, 0.5) 100%), url('/assets/img/WebDev/service-hero.jpg');;
+    background: linear-gradient(to bottom, rgba(83, 84, 124, 0.5) 0%, rgba(83, 84, 124, 0.5) 100%), url('/assets/img/digital_m/Ivr.jpg');;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -27,7 +27,6 @@ body {
 }
 
 .ivr-cta {
-    padding: 5rem 0;
     background-color: #0b0b1d;
 }
 .ivr-cta h2 {
@@ -46,7 +45,7 @@ body {
     #ivrs-hero {
         height: 70vh;
         min-height: 500px;
-        background: linear-gradient(to bottom, rgba(83, 84, 124, 0.5) 0%, rgba(83, 84, 124, 0.5) 100%), url('/assets/img/WebDev/service-hero.jpg');;
+        background: linear-gradient(to bottom, rgba(83, 84, 124, 0.5) 0%, rgba(83, 84, 124, 0.5) 100%), url('/assets/img/digital_m/Ivr.jpg');;
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;

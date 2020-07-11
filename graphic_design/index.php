@@ -36,84 +36,91 @@
         </div>
     </div>
 </section>
-<section>
+<section class="web-design-services py-5">
 	<div class="container">
 		<div class="section-tittle">
 			<h2 class="text-center">Web & Graphic Design Services</h2>
 		</div>	
 		<p class="text-center">Make elegant websites with top notch graphics that create a memorable user experience. SEO-ready content
                 that drives sales. </p>
-        <div class="row justify-content-center">
-            
-				<div class="col-lg-6 col-md-6  d-flex">
-					<div class="card  shadow flex-fill">
-					<img src="/assets/img/WebDev/service-3.jpg" class="img-fluid" alt="">
-					<h2 class="text-center py-1">Web Development</h2>
+        <div class="row my-5">
+				<div class="d-flex">
+					<div class="card flex-fill">
 
-					<p class="px-3">
-                            Make elegant websites with top notch graphics that create a memorable user experience.
-                            SEO-ready content that drives sales
-                            Make elegant websites with top notch graphics that create a memorable user experience.
-                            SEO-ready content that drives sales
-                            Make elegant websites with top notch graphics that create a memorable user experience.
-                            SEO-ready content that drives sales
-						</p>  
-   
+                        <div class="row flex-fill">
+                            <div class="col-md-6">
+                                <img src="/assets/img/WebDev/service-3.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="col-md-6">
+                            <h2 class="text-center py-4">Web Development</h2>
+
+                            <p class="px-5">
+                                    Make elegant websites with top notch graphics that create a memorable user experience.
+                                    SEO-ready content that drives sales
+                                    Make elegant websites with top notch graphics that create a memorable user experience.
+                                    SEO-ready content that drives sales
+                                    Make elegant websites with top notch graphics that create a memorable user experience.
+                                    SEO-ready content that drives sales
+                                </p>  
+    
+                            </div>
+                        </div>
 					</div>               
 				</div>
-				<div class="col-lg-6 col-md-6  d-flex">
-					<div class="card  shadow flex-fill">
-					<img src="/assets/img/WebDev/service-2.jpg" class="img-fluid" alt="">
-					<h2 class="text-center py-1">Web Design</h2>
+        </div>
+        <div class="row my-5">
+				<div class="d-flex">
+					<div class="card flex-fill">
 
-                        <p class="px-3">
-                            Make elegant websites with top notch graphics that create a memorable user experience.
-                            SEO-ready content that drives sales
-                            Make elegant websites with top notch graphics that create a memorable user experience.
-                            SEO-ready content that drives sales
-                            Make elegant websites with top notch graphics that create a memorable user experience.
-                            SEO-ready content that drives sales
-                        </p>     
+                        <div class="row flex-fill">
+                            
+                            <div class="col-md-6">
+                                <h2 class="text-center py-4">Web Design</h2>
+                                <p class="px-5">
+                                        Make elegant websites with top notch graphics that create a memorable user experience.
+                                        SEO-ready content that drives sales
+                                        Make elegant websites with top notch graphics that create a memorable user experience.
+                                        SEO-ready content that drives sales
+                                        Make elegant websites with top notch graphics that create a memorable user experience.
+                                        SEO-ready content that drives sales
+                                    </p>  
+                            </div>
+                            <div class="col-md-6">
+                            <img src="/assets/img/WebDev/service-2.jpg" class="img-fluid" alt="">
+                            </div>
+                        </div>
 					</div>               
 				</div>
-		</div>
-		<div class="row justify-content-center mt-2">
-				<div class="col-lg-6 col-md-6 d-flex">
-					<div class="card  shadow flex-fill">
-					<img src="/assets/img/WebDev/logo-design.jpg" class="img-fluid" alt="">
-					<h2 class="text-center py-1">Logo Design</h2>
+        </div>
+        <div class="row">
+				<div class="d-flex">
+					<div class="card flex-fill">
 
-					<p class="px-3">
-                            Make elegant websites with top notch graphics that create a memorable user experience.
-                            SEO-ready content that drives sales
-                            Make elegant websites with top notch graphics that create a memorable user experience.
-                            SEO-ready content that drives sales
-                            Make elegant websites with top notch graphics that create a memorable user experience.
-                            SEO-ready content that drives sales
-						</p>  
-   
-					</div>               
-				</div>
-				<div class="col-lg-6 col-md-6  d-flex">
-					<div class="card  shadow flex-fill">
-					<img src="/assets/img/WebDev/social.jpg" class="img-fluid" alt="">
-					<h2 class="text-center py-1">Social Media graphics</h2>
+                        <div class="row flex-fill">
+                            <div class="col-md-6">
+                            <img src="/assets/img/WebDev/logo-design.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="col-md-6">
+                            <h2 class="text-center py-4">Logo Design</h2>
 
-                        <p class="px-3">
-                            Make elegant websites with top notch graphics that create a memorable user experience.
-                            SEO-ready content that drives sales
-                            Make elegant websites with top notch graphics that create a memorable user experience.
-                            SEO-ready content that drives sales
-                            Make elegant websites with top notch graphics that create a memorable user experience.
-                            SEO-ready content that drives sales
-                        </p>     
+                            <p class="px-5">
+                                    Make elegant websites with top notch graphics that create a memorable user experience.
+                                    SEO-ready content that drives sales
+                                    Make elegant websites with top notch graphics that create a memorable user experience.
+                                    SEO-ready content that drives sales
+                                    Make elegant websites with top notch graphics that create a memorable user experience.
+                                    SEO-ready content that drives sales
+                                </p>  
+    
+                            </div>
+                        </div>
 					</div>               
 				</div>
 		</div>
     </div>
 </section>
 
-<section id="team" class="my-5">
+<section id="team" class="py-5">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 card d-flex shadow">
@@ -129,8 +136,8 @@
                             SEO-ready content that drives sales
                         </p>
                     </div>
-                    <div class="col-lg-6 py-4">
-                        <img src="/assets/img/digital_m/features-1.svg" class="img-fluid" alt="">
+                    <div class="col-lg-5 py-4">
+                        <img src="/assets/img/digital_m/team.png" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>
