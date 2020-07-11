@@ -1,0 +1,74 @@
+html, body {
+    height: 100%;
+}
+body {
+    position: relative;
+}
+
+#ivrs-hero {
+    height: 60vh;
+    min-height: 500px;
+    background: linear-gradient(to bottom, rgba(83, 84, 124, 0.5) 0%, rgba(83, 84, 124, 0.5) 100%), url('/assets/img/digital_m/Ivr.jpg');;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+.hero-text h1{
+    font-weight: bolder;
+    font-size: 3rem;
+    color: #fff !important;
+    text-transform: uppercase;
+}
+
+.hero-text p{
+    font-size: 1.5rem;
+    color: #fff !important;
+}
+
+.ivr-cta {
+    background-color: #0b0b1d;
+}
+.ivr-cta h2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+@media (min-width: 991.98px) { 
+    html, body {
+        height: 100%;
+    }
+    body {
+        position: relative;
+    }
+    
+    #ivrs-hero {
+        height: 70vh;
+        min-height: 500px;
+        background: linear-gradient(to bottom, rgba(83, 84, 124, 0.5) 0%, rgba(83, 84, 124, 0.5) 100%), url('/assets/img/digital_m/Ivr.jpg');;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+      }
+      
+    .hero-text h1{
+        font-weight: bolder;
+        font-size: 3rem;
+        color: #fff !important;
+        text-transform: uppercase;
+      }
+    .hero-text p{
+        font-size: 1.5rem;
+        color: #fff !important;
+      }
+    #ivr-card{
+        margin-top: -16rem;
+    }
+    
+    #ivrs-hero .card {
+        padding: 4rem;
+    }
+    .after-card{
+        margin: 10rem 0;
+    }
+ }

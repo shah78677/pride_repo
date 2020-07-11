@@ -22,6 +22,10 @@
 	<link rel="stylesheet" href="/assets/css/slick.css">
 	<link rel="stylesheet" href="/assets/css/nice-select.css">
 	<link rel="stylesheet" href="/assets/css/style.css?v=2">
+    <link rel="stylesheet" href="/assets/css/digitalmarketing.css">
+    <link rel="stylesheet" href="/assets/css/webdesign.css">
+    <link rel="stylesheet" href="/assets/css/ivrs.css">
+    <link rel="stylesheet" href="/assets/css/sms.css">
 </head>
 <body>
     <header>

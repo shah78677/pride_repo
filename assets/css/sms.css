@@ -1,0 +1,25 @@
+.sms-services {
+    background-color: #e7f9fd;
+}
+.sms-cta {
+    background-color: #0b0b1d;
+}
+.sms-hero {
+    height: 70vh;
+    min-height: 500px;
+    background: linear-gradient(to bottom, rgba(83, 84, 124, 0.5) 0%, rgba(83, 84, 124, 0.5) 100%), url('/assets/img/digital_m/sms-hero.jpg');;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+.hero-text h1{
+    font-weight: bolder;
+    font-size: 3rem;
+    color: #fff !important;
+    text-transform: uppercase;
+  }
+.hero-text p{
+    font-size: 1.5rem;
+    color: #fff !important;
+  }
